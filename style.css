@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body{
+  background-color: black;
+  margin-top: 80px;
+}
+h1,h4,p{
+  text-align: center;
+  text-decoration :yellow;
+  font-family:Verdana, Geneva, Tahoma, cursive;
+  color : white;
+}
+p{
+  place-content:initial;
+  text-align: left;
+  text
+}
+tr{
+ border-color : red;
+}
